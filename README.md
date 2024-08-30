@@ -1,7 +1,4 @@
-# CODSOFT
-Tasks provided by CodSoft
 
-  # TASK 1
 
 1. Generate a random number within a specified range, such as 1 to 100.
 
